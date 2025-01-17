@@ -1,0 +1,7 @@
+Card Counting: 
+
+If we have have 10-A, we subtract one to the count
+If we have 2-6, we add one to the count
+
+If we have +5, we try to cash in 
+
